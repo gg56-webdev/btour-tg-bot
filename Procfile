@@ -1,0 +1,1 @@
+worker: cd chat/ && node index.js
